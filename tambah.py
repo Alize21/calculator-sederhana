@@ -10,6 +10,12 @@ def kurang(*args):
         hasil -= data
     print(hasil)
 
+def kali(*args):
+    hasil = 1
+    for data in args:
+        hasil *= data
+    print(hasil)
+
 def bagi(*args):
     try:
         hasil=args[0]
