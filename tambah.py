@@ -24,3 +24,7 @@ def bagi(*args):
         print(hasil)
     except ZeroDivisionError:  
         print("tidak bisa membagi dengan 0")
+
+def pangkat(angka:int,n:int)-> int :
+    hasil = angka**n
+    print(hasil)
