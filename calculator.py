@@ -9,3 +9,4 @@ pangkat(2,4)
 luas_persegi_panjang(4,5)
 keliling_persegi_panjang(4,5)
 lebar_persegi_panjang(260,20)
+#test
